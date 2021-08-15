@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Deepak Reddy
 - 👀 I’m interested in Front-End Developement
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me hello.deepakreddy@gmail.com
