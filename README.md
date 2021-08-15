@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deepak9812
 - 👀 I’m interested in Front-End Developer
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with other Developers
 - 📫 How to reach me hello.deepakreddy@gmail.com
 
 <!---
